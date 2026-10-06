@@ -56,6 +56,12 @@ f1 macro for buangka
 - Assists: Beginner - Steering assist Off, Braking assist Medium, ERS assist Off
 - Simulation Settings: Race start Assisted
 
+### 📦 설치 및 실행 방법
+
+1. 아래 **Assets** 항목에서 `f1macro_v1.1_dist.zip` (또는 최신 배포 ZIP)을 다운로드합니다.
+2. 원하는 폴더에 압축을 해제합니다.
+3. **`f1macro.exe`** 아이콘을 클릭하여 실행합니다.
+
 **자동 설정값 수정, 추가 제안 언제든 환영합니다!**
 
 매크로는 완벽하지 않으며, 오작동할 수 있습니다. 오작동 발견 시 제보 부탁드립니다.
